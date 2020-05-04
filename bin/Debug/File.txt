@@ -1,0 +1,39 @@
+________
+Total number of shims was: 5
+Total weight of shim bag was: 23.5 lbs
+________
+Average shim weight was: 4.7 lbs
+Max shim weight: 10
+Minimum shim weight: .5
+________
+Sunday, May 3, 2020 2:21:06 PM
+END OF THIS EQUATION
+ 
+ 
+ 
+________
+Total number of shims was: 2
+Total weight of shim bag was: 8 lbs
+________
+Average shim weight was: 4 lbs
+Max shim weight: 10
+Minimum shim weight: .5
+________
+Sunday, May 3, 2020 2:21:32 PM
+END OF THIS EQUATION
+ 
+ 
+ 
+________
+Total number of shims was: 2
+Total weight of shim bag was: 10 lbs
+________
+Average shim weight was: 5 lbs
+Max shim weight: 10
+Minimum shim weight: .5
+________
+Sunday, May 3, 2020 7:26:28 PM
+END OF THIS EQUATION
+ 
+ 
+ 

@@ -1,0 +1,9 @@
+Welcome to Kris's Metal Shim Adder app!
+
+This app was designed for the user to be able to add metal shims together, as well as give them numerous other tools to help check things while
+they are calculating the total value of it all.
+
+Please refer to the help button located on the app for more instruction, and reach out to kristopher.clancy@cuw.edu if you have anymore questions! 
+
+Thanks, and enjoy the app! :) 
+

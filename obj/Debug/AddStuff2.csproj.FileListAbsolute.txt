@@ -1,0 +1,9 @@
+C:\Users\krisc\OneDrive - Concordia University Wisconsin\VS Projects\AddStuff2\bin\Debug\AddStuff2.exe.config
+C:\Users\krisc\OneDrive - Concordia University Wisconsin\VS Projects\AddStuff2\bin\Debug\AddStuff2.exe
+C:\Users\krisc\OneDrive - Concordia University Wisconsin\VS Projects\AddStuff2\bin\Debug\AddStuff2.pdb
+C:\Users\krisc\OneDrive - Concordia University Wisconsin\VS Projects\AddStuff2\obj\Debug\AddStuff2.csprojAssemblyReference.cache
+C:\Users\krisc\OneDrive - Concordia University Wisconsin\VS Projects\AddStuff2\obj\Debug\AddStuff2.Properties.Resources.resources
+C:\Users\krisc\OneDrive - Concordia University Wisconsin\VS Projects\AddStuff2\obj\Debug\AddStuff2.csproj.GenerateResource.cache
+C:\Users\krisc\OneDrive - Concordia University Wisconsin\VS Projects\AddStuff2\obj\Debug\AddStuff2.exe
+C:\Users\krisc\OneDrive - Concordia University Wisconsin\VS Projects\AddStuff2\obj\Debug\AddStuff2.pdb
+C:\Users\krisc\OneDrive - Concordia University Wisconsin\VS Projects\AddStuff2\obj\Debug\AddStuff2.AddStuff2.resources

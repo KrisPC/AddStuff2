@@ -1,0 +1,9 @@
+HELP SECTION:
+
+In order to start calculating, you must first enter the shim weight you want to add (keeping in mind the maximum shim weight and minimum shim weight) and entering the maximum bag weight (the amount you want to keep adding up until.) 
+
+Note that if you do not enter both of these, you will not be able to start calculating. You only need to have the maximum bag weight entered once (until the next equation.)
+
+Press undo to undo the last operation (only works once).
+
+Press save and print to save the entire equation to the text document (which will then open up and clear everything entered.)
